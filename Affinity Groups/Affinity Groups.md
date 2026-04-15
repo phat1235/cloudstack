@@ -86,6 +86,7 @@ Trước phiên bản 4.18:
 
 * Chỉ có **Strict Affinity**
 * Nếu không thỏa điều kiện → deploy thất bại
+* 
 ![](https://raw.githubusercontent.com/phat1235/cloudstack/2ab2f7209f522b32b251ff8c749d4dffe6b767bc/imgs/Affinity%20Groups/Picture-3.png)
 
 Sau 4.18:
@@ -96,6 +97,7 @@ Sau 4.18:
   → sử dụng thuật toán `vm.allocation.algorithm`
 
 ![](https://raw.githubusercontent.com/phat1235/cloudstack/2ab2f7209f522b32b251ff8c749d4dffe6b767bc/imgs/Affinity%20Groups/Picture-4.png)
+
 ---
 
 ## Cách tính ưu tiên Host (Host Priority)
